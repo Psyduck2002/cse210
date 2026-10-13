@@ -1,0 +1,2 @@
+Score|0
+SimpleGoal|Eat an apple|Eat an apple every day to be healthy|100|False
